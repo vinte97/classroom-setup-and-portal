@@ -3,3 +3,4 @@ __pycache__/
 *.log
 .test-tmp/
 course-pack/download.url
+course-pages/
