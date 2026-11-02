@@ -1,0 +1,4 @@
+project_id,name,owner,reported_pct,reported_status,reported_as_of,actual_status,actual_as_of,budget_plan_mln,budget_fact_mln,case_id
+PRJ-ERP,Внедрение ERP,С. Морозов,85,зелёный,2026-07-05,период_июня_не_закрыт,2026-07-05,18,16.4,CASE-ERP-001
+PRJ-SUP2,Второй поставщик К-12,Е. Лебедева,10,красный,2026-07-04,договор_не_подписан,2026-07-04,0,0,CASE-K12-001
+PRJ-SVC,Портал заявок сервиса,К. Васильева,40,жёлтый,2026-07-09,пилот_не_запущен,2026-07-09,3.0,1.1,CASE-TEAM-001

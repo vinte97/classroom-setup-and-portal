@@ -1,0 +1,10 @@
+{
+  "project_id": "PRJ-ERP",
+  "name": "Внедрение ERP",
+  "status": "зелёный",
+  "progress_pct": 85,
+  "schedule_variance": "нет",
+  "complaints": "нет",
+  "as_of": "2026-06-20",
+  "source": "pmo_cache"
+}
