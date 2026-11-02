@@ -17,7 +17,7 @@
   "python_macos_download": "https://www.python.org/downloads/macos/",
   "brew_home": "https://brew.sh",
   "winget_install_docs": "https://learn.microsoft.com/en-us/windows/package-manager/winget/install",
-  "portal_url": "",
+  "portal_url": "https://vinte97.github.io/classroom-setup-and-portal/",
   "course_dir_name": "AI-Managers-v2",
   "min_free_mb": "2048",
   "pack_version": "1.0.0"
